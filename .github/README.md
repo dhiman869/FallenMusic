@@ -1,9 +1,9 @@
 <p align="center">
-    <br><b>😫 𝗙𝗮𝗹𝗹𝗲𝗻 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
+    <br><b>🌟 𝐃 𝐇 𝐈 𝐌 𝐀 𝐍 🌟</b><br>
 </p>
-<p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/89cbc8b8760b6abff430f.jpg"></a></p>
+<p align="center"><a href="https://t.me/dhiman_xx"><img src="https://telegra.ph/file/70fc5d3c16c3ceb7bc486.jpg"></a></p>
 
-Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
+Dhiman Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Stars">
@@ -64,7 +64,7 @@ The easiest way to host this bot, Deploy on Heroku, Change the app country to Eu
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/AnonymousR1025/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/dhiman869/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
